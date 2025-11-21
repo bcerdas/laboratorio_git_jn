@@ -16,7 +16,10 @@ public class ProyectoJuevesNocheG0 {
         System.out.println("Este es mi proyecto");
         
         ClientesMenu menu = new ClientesMenu();
-        
+        System.out.println("Hola");
+                
         
     }
+    
+    
 }
